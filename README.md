@@ -22,9 +22,3 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pylora&show_icons=true&theme=holi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pylora&layout=compact&theme=holi)
-
-
-### 💬 Kontakt
-- 📧 E-Mail: [deine.email@example.com](mailto:deine.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/deinprofil](https://www.linkedin.com/in/deinprofil)
-- 🌐 Portfolio: [deinewebsite.com](https://deinewebsite.com)

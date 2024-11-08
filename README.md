@@ -23,10 +23,6 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pylora&layout=compact&theme=holi)
 
-[![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
-
-
-
 ### 🛠️ Technologien und Tools
 Hier sind einige der Technologien und Tools, die ich regelmäßig verwende und mit denen ich Erfahrung habe:
 

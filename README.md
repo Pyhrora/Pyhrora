@@ -7,7 +7,7 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 ---
 
 ### 🌍 Socials:
-[![Discord Presence](https://lanyard.cnrad.dev/api/833639587204169759)](https://discord.com/users/1254079221811118120)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1254079221811118120)](https://discord.com/users/1254079221811118120)
 
 ---
 

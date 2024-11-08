@@ -14,16 +14,4 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pylora&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pylora&layout=compact&theme=holi)
 
----
-## 🪧 GitHub Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pylora&repo=tutorial-discord-bot&theme=holi)](https://github.com/Pylora/tutorial-discord-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pylora&repo=tutorial-dashboard&theme=holi)](https://github.com/Pylora/tutorial-dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pylora&repo=youwebseit&theme=holi)](https://github.com/Pylora/youwebseit)
-
----
-### 📫 Contact
-- [Email](astro.development.de@gmail.com)
-- [Twitter](https://x.com/finn_pyrora)
-- [Discord](<https://discord.com/users/1254079221811118120>)
-
 [![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)

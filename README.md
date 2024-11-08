@@ -19,9 +19,9 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pylora&repo=youwebseit&theme=holi)](https://github.com/Pylora/youwebseit)
 
 ---
-### 📫 How to reach me:
-- [My Email](astro.development.de@gmail.com)
-- [My Twitter](https://x.com/finn_pyrora)
-- [My Discord](<https://discord.com/users/1254079221811118120>)
+### 📫 Contact
+- [Email](astro.development.de@gmail.com)
+- [Twitter](https://x.com/finn_pyrora)
+- [Discord](<https://discord.com/users/1254079221811118120>)
 
 [![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)

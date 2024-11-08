@@ -4,8 +4,6 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 
 ### 🔧 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,docker)](https://skillicons.dev)
-
----
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
 
 ### 👨‍💻 Coding Stats

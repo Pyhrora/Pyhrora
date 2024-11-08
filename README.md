@@ -15,6 +15,8 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
 
+[![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
 ---
 
 ### 👨‍💻 Coding Stats

@@ -11,11 +11,10 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 
 ---
 
-### 🔧 Languages & Tools
+### 🛠️ Technologien und Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
 
-[![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
 
 ---
 
@@ -25,13 +24,7 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 
 [![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
-# Hallo, ich bin [Dein Name]! 👋
 
-### 🌐 Über mich
-Ich bin ein [dein Beruf/Titel, z.B. Softwareentwickler] mit Leidenschaft für [deine Interessen, z.B. Webentwicklung, Data Science, Open Source]. Ich liebe es, komplexe Probleme zu lösen und ständig neue Dinge zu lernen!
-
-- 🎓 [Dein Abschluss oder aktuelles Studium, falls relevant]
-- 📍 [Dein Standort, z.B. Berlin, Deutschland]
 
 ### 🛠️ Technologien und Tools
 Hier sind einige der Technologien und Tools, die ich regelmäßig verwende und mit denen ich Erfahrung habe:

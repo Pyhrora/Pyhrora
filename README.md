@@ -21,6 +21,4 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 ### 👨‍💻 Coding Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pylora&show_icons=true&theme=blueberry)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pylora&theme=blueberry&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pylora&layout=compact&theme=blueberry)

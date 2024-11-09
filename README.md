@@ -22,10 +22,3 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pylora&show_icons=true&theme=blueberry)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pylora&layout=compact&theme=blueberry)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>

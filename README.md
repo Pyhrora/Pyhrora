@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 [![Discord Presence](https://lanyard.cnrad.dev/api/1254079221811118120)](https://discord.com/users/1254079221811118120)
 
 ## 📈 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Pyhrora&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyhrora&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Pyhrora&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyhrora&layout=compact&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=Pylora&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)

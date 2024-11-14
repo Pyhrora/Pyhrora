@@ -7,11 +7,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 🚀 Discord Me
 [![Discord Presence](https://lanyard.cnrad.dev/api/1254079221811118120)](https://discord.com/users/1254079221811118120)
 
-## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,docker)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
-
 ## 📈 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pyhrora&show_icons=true&theme=dark)
 

@@ -1,8 +1,3 @@
-### 👨‍💻 Coding Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Pyhrora&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyhrora&layout=compact&theme=dark)
-
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building solutions that make a difference. Here's a little about me and my work.
